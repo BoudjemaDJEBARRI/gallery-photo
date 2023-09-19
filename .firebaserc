@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "ang-fire-58455": {
+      "hosting": {
+        "gallery-photo": [
+          "ang-fire-58455"
+        ]
+      }
+    },
+    "photogallery-ang-fire": {
+      "hosting": {
+        "gallery-photo": [
+          "photogallery-ang-fire"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-fire-58455"
+  }
+}
